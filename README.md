@@ -11,7 +11,7 @@
 [![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D4?style=flat-square&logo=windows&logoColor=white)](https://microsoft.com)
 [![License](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](LICENSE)
 
-[**Site officiel**](https://donuts-club.com/akina.php) • [**Discord**](https://discord.gg/akina) • [**Télécharger**](https://github.com/ton-user/akina-rpc/releases/latest)
+[**Site officiel**](https://donuts-club.com/akina.php) • [**Discord**](https://discord.gg/akina) • [**Télécharger**](https://github.com/NOGSMatthew/akina-discord-rpc/releases/)
 
 </div>
 
@@ -42,7 +42,7 @@ Elle s'installe en un clic, se lance silencieusement au démarrage du PC et ne n
 
 ### Méthode recommandée — Exécutable
 
-1. Télécharger le dernier `.exe` dans [**Releases**](https://github.com/ton-user/akina-rpc/releases/latest)
+1. Télécharger le dernier `.exe` dans [**Releases**](https://github.com/NOGSMatthew/akina-discord-rpc/releases/)
 2. Lancer `AkinaRPC_Installer.exe`
 3. Cliquer sur **Installer Akina RPC**
 4. C'est tout ✔
